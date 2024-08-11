@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing:border-box ;
+}
+.main-container{
+background-image: url("download.jfif");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+width: 100%;
+
+}
+h1{
+    color: rgba(170, 170, 168, 0.705);
+    padding-top:30px ;
+
+}
+.auth{
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.form-control{
+    width: 350px;
+}
+#male{
+    font-weight: 500;
+    
+
+}
+h4{
+    color: rgb(150, 154, 158);
+}
+.loggg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 35px;
+}
